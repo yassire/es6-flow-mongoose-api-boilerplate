@@ -21,7 +21,6 @@ Generate flow types
 
 ```
 yarn flow-typed
-
 ```
 
 Start the server
@@ -48,7 +47,7 @@ yarn test
 Linting
 ------
 
-Validate the lints
+Run the lint
 
 ```
 yarn lint
